@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Привет! Я Ертыс
 
-<!--
-**Ert15/Ert15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 3 курса **Казахстанско-Британского технического университета (КБТУ)**, специальность *Информационные системы*.
 
-Here are some ideas to get you started:
+## 🧠 Обо мне
+- 🎓 Учусь в КБТУ, интересуюсь разработкой ПО и веб-технологиями
+- 💻 Увлекаюсь Python, C#, PostgreSQL и фронтендом
+- 🎮 Создаю простые игры на Unity
+- 🚀 Постоянно учусь и ищу стажировки для реальной практики
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии и инструменты
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📫 Контакты
+- Email: hpvictus15@gmail.com
+- 📍 Алматы, Казахстан
