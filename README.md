@@ -25,5 +25,5 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📫 Контакты
-- Email: hpvictus15@gmail.com
+- Email: ertissejtkazy@gmail.com
 - 📍 Алматы, Казахстан
