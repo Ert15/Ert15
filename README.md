@@ -12,7 +12,7 @@
 - 🎓 Учусь в КБТУ, интересуюсь мобильный разработкой, разработкой ПО и веб-технологиями
 - 💻 Увлекаюсь flutter, Python, C#, PostgreSQL,Firebase и фронтендом
 - 🎮 Создаю простые игры на Unity и Unreal engine
-- 🚀 Постоянно учусь и ищу стажировки для реальной практики
+- 🚀 Постоянно учусь 
 
 ## 🛠️ Технологии и инструменты
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
